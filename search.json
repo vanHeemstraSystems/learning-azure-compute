@@ -7,11 +7,11 @@
     "text": "About this site"
   },
   {
-    "objectID": "topics/hybrid-identity.html",
-    "href": "topics/hybrid-identity.html",
-    "title": "Hybrid Identity",
+    "objectID": "topics/designing-a-compute-solution.html",
+    "href": "topics/designing-a-compute-solution.html",
+    "title": "Designing a Compute Solution",
     "section": "",
-    "text": "Source: Compute"
+    "text": "Source: Compute\n\nRequirements\n\nTailwind Traders would like to migrate their product catalog application to the cloud. This application has a traditional 3-tier configuration using SQL Server as the data store. The IT team hopes you can help modernize the application. They have provided this diagram and several areas that could be improved."
   },
   {
     "objectID": "SUMMARY.html",
