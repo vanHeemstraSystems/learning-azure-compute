@@ -1,1 +1,7 @@
 /* css styles */
+.center {
+  margin: 0!important;
+}
+.image-large {
+  height: 300px;
+}
