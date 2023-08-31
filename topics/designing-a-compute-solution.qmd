@@ -1,0 +1,12 @@
+---
+title: "Designing a Compute Solution"
+css: ../styles.css
+---
+
+Source: [Compute](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/02-Compute.html)
+
+<h2>Requirements</h2>
+
+Tailwind Traders would like to migrate their product catalog application to the cloud. This application has a traditional 3-tier configuration using SQL Server as the data store. The IT team hopes you can help modernize the application. They have provided this diagram and several areas that could be improved.
+
+
