@@ -29,4 +29,6 @@ Tailwind Traders would like to migrate their product catalog application to the 
 
 How are you incorporating the Well Architected Framework pillars to produce a high quality, stable, and efficient cloud architecture?
 
+![](../images/choose_a_compute_service.png){.center .image-extra-large}
+
 ![](../images/iaas_versus_paas.png){.center .image-large}
