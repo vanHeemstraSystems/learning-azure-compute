@@ -53,7 +53,7 @@
     "href": "topics/choose-a-storage-service.html",
     "title": "Choose a Storage Service",
     "section": "",
-    "text": "Source: Choose a Compute Service\nMore …"
+    "text": "Source: Choose a Storage Service\nThe Azure Storage platform is the Microsoft cloud storage solution for modern data storage scenarios. Review these articles to determine the best solution for your use case:\n\n\n\n\n\n\n\nArticle\nSummary\n\n\n\n\nReview your storage option.](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/storage-options?toc=/azure/architecture/toc.json&bc=/azure/architecture/_bread/toc.json)\nReview the storage options for Azure workloads.\n\n\nAzure managed disk types.](https://learn.microsoft.com/en-us/azure/virtual-machines/disks-types?toc=/azure/architecture/toc.json&bc=/azure/architecture/_bread/toc.json)\nLearn about the disk types that are available for Azure virtual machines, including Ultra disks, Premium SSDs v2 (preview), Premium SSDs, Standard SSDs, and Standard HDDs.\n\n\nChoose an Azure solution for data transfer.](https://learn.microsoft.com/en-us/azure/storage/common/storage-choose-data-transfer-solution?toc=/azure/architecture/toc.json&bc=/azure/architecture/_bread/toc.json)\nChoose an Azure solution for data transfer, based on the amount of data and the available network bandwidth in your environment."
   },
   {
     "objectID": "topics/choose-a-compute-service.html",
