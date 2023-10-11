@@ -60,7 +60,7 @@
     "href": "topics/choose-a-compute-service.html",
     "title": "Choose a Compute Service",
     "section": "",
-    "text": "Source: Choose a Compute Service\nMore …"
+    "text": "Source: Choose a Compute Service\nThe term compute refers to the hosting model for the computing resources that your application runs on. The following articles can help you choose the right technologies:\n\n\n\n\n\n\n\nArticle\nSummary\n\n\n\n\nChoose an Azure compute service.\nDecide which compute service best suits your application.\n\n\nHigh availability and disaster recovery scenarios for IaaS apps.\nLearn about high availability (HA) and disaster recovery (DR) options for multitier infrastructure as a service (IaaS) apps in Azure.\n\n\nChoose an Azure compute option for microservices.\nLearn about two compute options for microservices: service orchestrator and serverless architecture.\n\n\nChoose between traditional web apps and SPAs.\nLearn how to choose between traditional web apps and single-page applications (SPAs).\n\n\nChoose an Azure multiparty computing service.\nDecide which multiparty computing services to use for your solution."
   },
   {
     "objectID": "topics/choose-an-iot-option.html",
