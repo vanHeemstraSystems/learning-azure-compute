@@ -30,5 +30,6 @@ Tailwind Traders would like to migrate their product catalog application to the 
 How are you incorporating the [Well Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/) pillars to produce a high quality, stable, and efficient cloud architecture?
 
 ![Choose a Compute Service](../images/choose_a_compute_service.png){.center .image-extra-large}
+See [Compute Decision Tree](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree)
 
 ![IaaS versus PaaS](../images/iaas_versus_paas.png){.center .image-large}
