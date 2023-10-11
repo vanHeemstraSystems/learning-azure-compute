@@ -1,1 +1,8 @@
+---
+title: "Choose a Storage Service"
+css: ../styles.css
+---
 
+Source: [Choose a Compute Service](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)
+
+More ...
