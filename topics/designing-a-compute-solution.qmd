@@ -9,7 +9,7 @@ Source: [Compute](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftA
 
 Tailwind Traders would like to migrate their product catalog application to the cloud. This application has a traditional 3-tier configuration using SQL Server as the data store. The IT team hopes you can help modernize the application. They have provided this diagram and several areas that could be improved.
 
-![](../images/compute.png){.center .image-large}
+![Compute](../images/compute.png){.center .image-large}
 
 - The frontend application is a .NET core-based web app. During peak periods 1750 customers visit the website each hour.
 
