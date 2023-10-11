@@ -3,6 +3,6 @@ title: "Choose a Security Option"
 css: ../styles.css
 ---
 
-Source: [Choose a Compute Service](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)
+Source: [Choose a Security Option](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)
 
 More ...
