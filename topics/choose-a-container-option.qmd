@@ -3,7 +3,7 @@ title: "Choose a Container Option"
 css: ../styles.css
 ---
 
-Source: [Choose a Compute Service](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)
+Source: [Choose a Container Option](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)
 
 There are many ways to build and deploy cloud-native and containerized applications in Azure. Review these articles to learn more:
 
