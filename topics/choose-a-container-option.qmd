@@ -5,4 +5,10 @@ css: ../styles.css
 
 Source: [Choose a Compute Service](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)
 
-More ...
+There are many ways to build and deploy cloud-native and containerized applications in Azure. Review these articles to learn more:
+
+|Article|Summary|
+|--|--|
+|[Compare Container Apps with other Azure container option.](https://learn.microsoft.com/en-us/azure/container-apps/compare-options?toc=/azure/architecture/toc.json&bc=/azure/architecture/_bread/toc.json)|Understand when to use Azure Container Apps and how it compares to other container options, including Azure Container Instances, Azure App Service, Azure Functions, and Azure Kubernetes Service (AKS).|
+|[Choose a Kubernetes at the edge compute optio.](https://learn.microsoft.com/en-us/azure/architecture/operator-guides/aks/choose-kubernetes-edge-compute-option)|Learn about the pros and cons of various options for extending compute at the edge.|
+|[Choose a bare-metal Kubernetes at the edge platform option.](https://learn.microsoft.com/en-us/azure/architecture/operator-guides/aks/choose-bare-metal-kubernetes)|Find the best option, given a specific use case, for configuring Kubernetes clusters at the edge.|
