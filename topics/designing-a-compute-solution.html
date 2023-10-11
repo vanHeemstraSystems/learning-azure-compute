@@ -178,8 +178,41 @@ Requirements
 </ul>
 <p><strong>Tasks</strong></p>
 <ul>
-<li><p><strong>Front-end tier</strong>. Which Azure compute service would you recommend for the front-end tier? Explain why you decided on your solution.</p></li>
-<li><p><strong>Middle tier</strong>. Which Azure compute service would you recommend for the middle tier? Explain why you decided on your solution.</p></li>
+<li><strong>Front-end tier</strong>. Which Azure compute service would you recommend for the front-end tier? Explain why you decided on your solution.</li>
+</ul>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Web/Front-end Tier</th>
+<th>Scalability</th>
+<th>.NetApp</th>
+<th>Modernize</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Containers / AKS / Source Fabric</td>
+<td>Yes</td>
+<td>Investigate</td>
+<td>Yes</td>
+</tr>
+<tr class="even">
+<td>Web App - ASP</td>
+<td>Yes</td>
+<td>Yes</td>
+<td>Yes</td>
+</tr>
+<tr class="odd">
+<td>VM Scale Set</td>
+<td>Yes</td>
+<td>Yes</td>
+<td>No</td>
+</tr>
+</tbody>
+</table>
+<p>Possible Solutions</p>
+<ul>
+<li><strong>Middle tier</strong>. Which Azure compute service would you recommend for the middle tier? Explain why you decided on your solution.</li>
 </ul>
 <p>How are you incorporating the <a href="https://learn.microsoft.com/en-us/azure/well-architected/">Well Architected Framework</a> pillars to produce a high quality, stable, and efficient cloud architecture?</p>
 <p><img src="../images/choose_a_compute_service.png" class="center image-extra-large img-fluid" alt="Choose a Compute Service"> See <a href="https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree">Compute Decision Tree</a></p>
