@@ -5,4 +5,13 @@ css: ../styles.css
 
 Source: [Choose a Compute Service](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)
 
-More ...
+Many organizations need a hybrid approach to analytics, automation, and services because their data is hosted both on-premises and in the cloud. The following articles can help you choose the best technologies for your scenario:
+
+|Article|Summary|
+|--|--|
+|[Azure hybrid options.](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/hybrid-considerations)|Learn about Azure hybrid solutions, including alternatives to deploy and host hybrid services on-premises, at the edge, in Azure, and in other clouds.
+|[Compare Azure Stack Hub to Azure.](https://learn.microsoft.com/en-us/azure-stack/user/azure-stack-considerations?toc=/azure/architecture/toc.json&bc=/azure/architecture/_bread/toc.json)|Learn the differences between Azure and Azure Stack Hub.
+|[Compare Azure, Azure Stack Hub, and Azure Stack HC.](https://learn.microsoft.com/en-us/azure-stack/operator/compare-azure-azure-stack?toc=/azure/architecture/toc.json&bc=/azure/architecture/_bread/toc.json)|Learn the differences between Azure, Azure Stack Hub, and Azure Stack HCI.
+|[Compare Azure Stack HCI to Azure Stack Hub.](https://learn.microsoft.com/en-us/azure-stack/hci/concepts/compare-windows-server?toc=/azure/architecture/toc.json&bc=/azure/architecture/_bread/toc.json)|Determine whether Azure Stack HCI or Azure Stack Hub is right for your organization.
+|[Compare Azure Stack HCI to Windows Server.](https://learn.microsoft.com/en-us/azure-stack/hci/concepts/compare-windows-server?toc=/azure/architecture/toc.json&bc=/azure/architecture/_bread/toc.json)|Determine whether Azure Stack HCI or Windows Server is right for your organization.
+|[Choose drives for Azure Stack HCI and Windows Server cluster.](https://learn.microsoft.com/en-us/azure-stack/hci/concepts/choose-drives?toc=/azure/architecture/toc.json&bc=/azure/architecture/_bread/toc.json)|Learn how to choose drives for Azure Stack HCI and Windows Server clusters to meet performance and capacity requirements.
