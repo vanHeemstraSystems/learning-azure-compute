@@ -102,7 +102,7 @@
     "href": "topics/choose-an-identity-service.html",
     "title": "Choose a Identity Service",
     "section": "",
-    "text": "Source: Choose a Compute Service\nMore …"
+    "text": "Source: Choose an Identity Service\nIdentity solutions help you protect your data and resources. These articles can help you choose an Azure identity service:\n\n\n\nArticle\nSummary\n\n\n\n\nActive Directory services.\nCompare the identity services that are provided by Active Directory Domain Services, Microsoft Entra ID, and Microsoft Entra Domain Services.\n\n\nHybrid identity authentication methods.\nChoose an authentication method for a Microsoft Entra hybrid identity solution in a medium-sized to large organization."
   },
   {
     "objectID": "topics/choose-a-messaging-service.html",
