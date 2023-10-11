@@ -19,7 +19,9 @@ website:
         - text: "---"
         - topics.qmd        
         - text: "---"
-        - topics/designing-a-compute-solution.qmd        
+        - topics/designing-a-compute-solution.qmd
+        - text: "---"
+        - topics/choose-a-compute-service.qmd
 format:
   html:
     theme: cosmo
