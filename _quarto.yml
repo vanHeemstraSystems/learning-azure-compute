@@ -22,6 +22,32 @@ website:
         - topics/designing-a-compute-solution.qmd
         - text: "---"
         - topics/choose-a-compute-service.qmd
+        - text: "---"
+        - topics/choose-a-container-option.qmd
+        - text: "---"
+        - topics/choose-a-hybrid-service.qmd
+        - text: "---"
+        - topics/choose-a-security-option.qmd
+        - text: "---"
+        - topics/choose-an-identity-service.qmd
+        - text: "---"
+        - topics/choose-a-storage-service.qmd
+        - text: "---"
+        - topics/choose-a-data-store.qmd
+        - text: "---"
+        - topics/choose-an-analytics-solution.qmd
+        - text: "---"
+        - topics/choose-an-ai-ml-service.qmd
+        - text: "---"
+        - topics/choose-a-networking-service.qmd
+        - text: "---"
+        - topics/choose-a-messaging-service.qmd
+        - text: "---"
+        - topics/choose-an-iot-option.qmd
+        - text: "---"
+        - topics/choose-a-command-line-tool.qmd
+        - text: "---"
+        - topics/development-tools.qmd        
 format:
   html:
     theme: cosmo
