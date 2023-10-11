@@ -39,7 +39,7 @@
     "href": "topics/choose-an-analytics-solution.html",
     "title": "Choose an Analytics Solution",
     "section": "",
-    "text": "Source: Choose a Compute Service\nMore …"
+    "text": "Source: Choose an Analytics Solution\nWith the exponential growth in data, organizations rely on the limitless compute, storage, and analytical power of Azure. Review these articles to learn about the available analytics solutions:\n\n\n\nArticle\nSummary\n\n\n\n\nChoose an analytical data store.\nEvaluate analytical data store options for big data in Azure.\n\n\nChoose a data analytics and reporting technology.\nEvaluate big data analytics technology options for Azure.\n\n\nChoose a batch processing technology.\nCompare technology choices for big data batch processing in Azure.\n\n\nChoose a stream processing technology.\nCompare options for real-time message stream processing in Azure."
   },
   {
     "objectID": "topics/choose-an-ai-ml-service.html",
