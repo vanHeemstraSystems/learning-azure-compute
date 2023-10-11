@@ -3,6 +3,13 @@ title: "Choose an Analytics Solution"
 css: ../styles.css
 ---
 
-Source: [Choose a Compute Service](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)
+Source: [Choose an Analytics Solution](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)
 
-More ...
+With the exponential growth in data, organizations rely on the limitless compute, storage, and analytical power of Azure. Review these articles to learn about the available analytics solutions:
+
+|Article|Summary|
+|--|--|
+|[Choose an analytical data store.](https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/analytical-data-stores)|Evaluate analytical data store options for big data in Azure.|
+|[Choose a data analytics and reporting technology.](https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/analysis-visualizations-reporting)|Evaluate big data analytics technology options for Azure.|
+|[Choose a batch processing technology.](https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/batch-processing)|Compare technology choices for big data batch processing in Azure.|
+|[Choose a stream processing technology.](https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/stream-processing)|Compare options for real-time message stream processing in Azure.|
