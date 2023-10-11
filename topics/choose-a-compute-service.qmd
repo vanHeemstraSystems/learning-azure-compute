@@ -9,8 +9,8 @@ The term compute refers to the hosting model for the computing resources that yo
 
 |Article|Summary|
 |--|--|
-|Choose an Azure compute service.|Decide which compute service best suits your application.|
-|High availability and disaster recovery scenarios for IaaS apps.|Learn about high availability (HA) and disaster recovery (DR) options for multitier infrastructure as a service (IaaS) apps in Azure.|
-|Choose an Azure compute option for microservices.|Learn about two compute options for microservices: service orchestrator and serverless architecture.|
-|Choose between traditional web apps and SPAs.|Learn how to choose between traditional web apps and single-page applications (SPAs).|
-|Choose an Azure multiparty computing service.|Decide which multiparty computing services to use for your solution.|
+|[Choose an Azure compute service.](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree)|Decide which compute service best suits your application.|
+|[High availability and disaster recovery scenarios for IaaS apps.](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/iaas-high-availability-disaster-recovery)|Learn about high availability (HA) and disaster recovery (DR) options for multitier infrastructure as a service (IaaS) apps in Azure.|
+|[Choose an Azure compute option for microservices.](https://learn.microsoft.com/en-us/azure/architecture/microservices/design/compute-options)|Learn about two compute options for microservices: service orchestrator and serverless architecture.|
+|[Choose between traditional web apps and SPAs.](https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/choose-between-traditional-web-and-single-page-apps?toc=/azure/architecture/toc.json&bc=/azure/architecture/_bread/toc.json)|Learn how to choose between traditional web apps and single-page applications (SPAs).|
+|[Choose an Azure multiparty computing service.](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/multiparty-computing-service)|Decide which multiparty computing services to use for your solution.|
