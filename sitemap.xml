@@ -2,34 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/about.html</loc>
-    <lastmod>2023-10-11T11:24:45.816Z</lastmod>
+    <lastmod>2023-10-11T11:25:42.545Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics.html</loc>
-    <lastmod>2023-10-11T11:24:45.224Z</lastmod>
+    <lastmod>2023-10-11T11:25:41.953Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/designing-a-compute-solution.html</loc>
-    <lastmod>2023-10-11T11:24:44.636Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/choose-a-compute-service.html</loc>
-    <lastmod>2023-10-11T11:24:43.916Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/privileged-identity-management.html</loc>
-    <lastmod>2023-10-11T11:24:42.152Z</lastmod>
+    <lastmod>2023-10-11T11:25:41.365Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/choose-a-container-option.html</loc>
-    <lastmod>2023-10-11T11:24:44.208Z</lastmod>
+    <lastmod>2023-10-11T11:25:40.645Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/privileged-identity-management.html</loc>
+    <lastmod>2023-10-11T11:25:39.684Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/choose-a-compute-service.html</loc>
+    <lastmod>2023-10-11T11:25:40.336Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/choose-a-hybrid-service.html</loc>
+    <lastmod>2023-10-11T11:25:40.937Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/SUMMARY.html</loc>
-    <lastmod>2023-10-11T11:24:44.932Z</lastmod>
+    <lastmod>2023-10-11T11:25:41.661Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/index.html</loc>
-    <lastmod>2023-10-11T11:24:45.524Z</lastmod>
+    <lastmod>2023-10-11T11:25:42.253Z</lastmod>
   </url>
 </urlset>
