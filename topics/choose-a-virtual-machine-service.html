@@ -261,6 +261,8 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#when-to-select-virtual-machines" id="toc-when-to-select-virtual-machines" class="nav-link active" data-scroll-target="#when-to-select-virtual-machines">When to select virtual machines</a></li>
   <li><a href="#plan-the-azure-virtual-machine-deployment" id="toc-plan-the-azure-virtual-machine-deployment" class="nav-link" data-scroll-target="#plan-the-azure-virtual-machine-deployment">Plan the Azure virtual machine deployment</a></li>
+  <li><a href="#azure-subscription-and-service-limits-quotas-and-constraints" id="toc-azure-subscription-and-service-limits-quotas-and-constraints" class="nav-link" data-scroll-target="#azure-subscription-and-service-limits-quotas-and-constraints">Azure subscription and service limits, quotas, and constraints</a></li>
+  <li><a href="#when-to-select-virtual-machine-scale-sets" id="toc-when-to-select-virtual-machine-scale-sets" class="nav-link" data-scroll-target="#when-to-select-virtual-machine-scale-sets">When to select virtual machine scale sets</a></li>
   </ul>
 </nav>
     </div>
@@ -315,6 +317,38 @@ ul.task-list li input[type="checkbox"] {
 <figcaption class="figure-caption">Plan VM Deployment</figcaption>
 </figure>
 </div>
+</section>
+<section id="azure-subscription-and-service-limits-quotas-and-constraints" class="level1">
+<h1>Azure subscription and service limits, quotas, and constraints</h1>
+<p>See also <a href="https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits">Azure Subscription Service Limits</a>.</p>
+</section>
+<section id="when-to-select-virtual-machine-scale-sets" class="level1">
+<h1>When to select virtual machine scale sets</h1>
+<p>Scale sete are built from virtual machines. With scale sets, the management and automation layers are provided to run and scale your applications.</p>
+<table class="table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Scenario</th>
+<th>Group of virtual machines</th>
+<th>Virtual machine scale sets*</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>You need to add VM instances for changing workload</td>
+<td>Manual process to create, configure, and ensure compliance.</td>
+<td>Automatically create from central configuration.</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>Ensure the application supports Virtual Machine Scale Sets (VMSS).</li>
+</ul>
 
 
 </section>
