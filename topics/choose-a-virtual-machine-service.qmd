@@ -36,5 +36,8 @@ Scale sete are built from virtual machines. With scale sets, the management and 
 |Scenario|Group of virtual machines|Virtual machine scale sets*|
 |--|--|--|
 |You need to add VM instances for changing workload|Manual process to create, configure, and ensure compliance.|Automatically create from central configuration.|
+|You need to balance and distribute workloads.|Manual process to create and configure Azure load balancer or Application Gateway.|Can automatically create and integrate with Azure load balancer or Application Gateway.|
+|You need high availability and redundancy.|Manually create Availability Set or distribute and track VMs across Availability Zones.|Automatic distribution of VM instances across Availability Zone (when zones are selected) and Availability Set.|
+|You need to monitor and then scale virtual machines.|Manual monitoring and Azure Automation.|Autoscale based on host metrics, in-guest metrics, Application Insights, or schedule.|
 
 * Ensure the application supports Virtual Machine Scale Sets (VMSS).
