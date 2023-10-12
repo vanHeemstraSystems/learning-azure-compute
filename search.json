@@ -88,7 +88,7 @@
     "href": "topics/choose-a-virtual-machine-service.html",
     "title": "Choose a Virtual Machine Service",
     "section": "",
-    "text": "When to select virtual machines\nKnow when to use vrtual machines\n\nQuickly test and troubleshoot different configurations.\nUse speciality hardware such as high-performance computing.\nExtend your on-premises datacenter without purchasing additional hardware.\nRun legacy apps on modern hardware.\nAccess third party software that requires local add-ons or plug-ins.\nQuickly migrate apps to the cloud.\nFully control the computing environment."
+    "text": "When to select virtual machines\nKnow when to use vrtual machines.\n\nQuickly test and troubleshoot different configurations.\nUse speciality hardware such as high-performance computing.\nExtend your on-premises datacenter without purchasing additional hardware.\nRun legacy apps on modern hardware.\nAccess third party software that requires local add-ons or plug-ins.\nQuickly migrate apps to the cloud.\nFully control the computing environment.\n\n\n\nPlan the Azure virtual machine deployment\nAzure virtual machines scenarios include build new or migrate patterns.\n\nStart with the network.\nName the VM.\nDecide the VM location.\nSelect the VM storage.\nSelect a VM operating system.\nKeep the VM up-to-date.\nMonitor the VM."
   },
   {
     "objectID": "topics/choose-an-ai-ml-service.html",
