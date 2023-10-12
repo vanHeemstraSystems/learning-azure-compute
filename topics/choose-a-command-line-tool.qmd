@@ -7,4 +7,4 @@ Source: [Choose a Command-Line Tool](https://learn.microsoft.com/en-us/azure/arc
 
 |Article|Summary|
 |--|--|
-|[Choose a command-line tool.](https://learn.microsoft.com/en-us/cli/azure/choose-the-right-azure-command-line-tool?toc=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fazure%2Farchitecture%2Ftoc.json&bc=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fazure%2Farchitecture%2Fbread%2Ftoc.json)|Choose the right Azure command-line tool|
+|[Choose a command-line tool.](https://learn.microsoft.com/en-us/cli/azure/choose-the-right-azure-command-line-tool?toc=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fazure%2Farchitecture%2Ftoc.json&bc=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fazure%2Farchitecture%2Fbread%2Ftoc.json)|Choose the right Azure command-line tool.|
