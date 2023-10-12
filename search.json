@@ -28,6 +28,13 @@
     "text": "Source: Choose a Mixed Reality Engine\n\n\n\nArticle\nSummary\n\n\n\n\nChoose a mixed reality engine.\nLearn about the engine choices for mixed reality development for HoloLens and virtual reality."
   },
   {
+    "objectID": "topics/designing-for-azure-batch-solutions.html",
+    "href": "topics/designing-for-azure-batch-solutions.html",
+    "title": "Designing for Azure Batch Solutions",
+    "section": "",
+    "text": "When to use Azure Batch\nAzure Batch enables large-scale parallel and HPC batch jobs\n\n\n\nDesign for Azure Batch Solutions\n\n\n\nCompute-intensive tasks anbd dynamically adjust resources for your solution without managing infrastructure.\nCreate and manage jobs in a pool of compute nodes (virtual machines).\nAzure Batch can also install the application that you want to run, and schedule jobs to run on the compute nodes."
+  },
+  {
     "objectID": "topics/designing-a-compute-solution.html",
     "href": "topics/designing-a-compute-solution.html",
     "title": "Designing a Compute Solution",
