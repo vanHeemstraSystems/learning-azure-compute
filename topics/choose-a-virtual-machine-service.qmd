@@ -1,1 +1,9 @@
+---
+title: "Choose a Virtual Machine Service"
+css: ../styles.css
+---
 
+# When to select virtual machines
+Know when to use vrtual machines
+
+- Quickly test and troubleshoot different configurations.
