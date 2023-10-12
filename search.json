@@ -67,7 +67,7 @@
     "href": "topics/choose-an-iot-option.html",
     "title": "Choose an IoT Option",
     "section": "",
-    "text": "Source: Choose a Compute Service\nMore …"
+    "text": "Source: Choose an Internet-of-Things Option\nIoT solutions use a combination of technologies to connect devices, events, and actions through cloud applications. Review these articles to learn more about the IoT technology choices that Azure provides:\n\n\n\nArticle\nSummary\n\n\n\n\nChoose an IoT solution.\nUse Azure IoT Central or individual Azure platform as a service (PaaS) components to build, deploy, and manage IoT solutions.\n\n\nCompare IoT Hub and Event Hubs.\nReview a comparison between Azure IoT Hub and Event Hubs that highlights functional differences and use cases. The comparison includes supported protocols, device management, monitoring, and file uploads."
   },
   {
     "objectID": "topics/choose-a-container-option.html",
