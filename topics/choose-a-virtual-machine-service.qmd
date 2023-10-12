@@ -26,3 +26,15 @@ Azure virtual machines scenarios include build new or migrate patterns.
 - Monitor the VM.
 
 ![Plan VM Deployment](../images/plan-the-azure-virtual-machine-deployment.png){.center .image-large}
+
+# Azure subscription and service limits, quotas, and constraints
+See also [Azure Subscription Service Limits](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits).
+
+# When to select virtual machine scale sets
+Scale sete are built from virtual machines. With scale sets, the management and automation layers are provided to run and scale your applications.
+
+|Scenario|Group of virtual machines|Virtual machine scale sets*|
+|--|--|--|
+|You need to add VM instances for changing workload|Manual process to create, configure, and ensure compliance.|Automatically create from central configuration.|
+
+* Ensure the application supports Virtual Machine Scale Sets (VMSS).
