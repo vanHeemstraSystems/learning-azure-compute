@@ -88,7 +88,7 @@
     "href": "topics/choose-a-virtual-machine-service.html",
     "title": "Choose a Virtual Machine Service",
     "section": "",
-    "text": "When to select virtual machines\nKnow when to use vrtual machines\n\nQuickly test and troubleshoot different configurations."
+    "text": "When to select virtual machines\nKnow when to use vrtual machines\n\nQuickly test and troubleshoot different configurations.\nUse speciality hardware such as high-performance computing.\nExtend your on-premises datacenter without purchasing additional hardware.\nRun legacy apps on modern hardware.\nAccess third party software that requires local add-ons or plug-ins.\nQuickly migrate apps to the cloud.\nFully control the computing environment."
   },
   {
     "objectID": "topics/choose-an-ai-ml-service.html",
