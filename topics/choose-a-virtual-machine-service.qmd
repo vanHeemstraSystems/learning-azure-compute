@@ -50,4 +50,4 @@ The virtual machine size determines pricing
 - Compute Optimized
 - GPU
 - Memory Optimized
-- High performance Compute
+- High Performance Compute
