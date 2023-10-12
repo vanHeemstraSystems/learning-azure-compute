@@ -3,7 +3,7 @@ title: "Choose a Command-Line Tool"
 css: ../styles.css
 ---
 
-Source: [Choose a Compute Service](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)
+Source: [Choose a Command-Line Tool](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)
 
 |Article|Summary|
 |--|--|
