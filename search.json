@@ -109,7 +109,7 @@
     "href": "topics/choose-a-messaging-service.html",
     "title": "Choose a Messaging Service",
     "section": "",
-    "text": "Source: Choose a Compute Service\nMore …"
+    "text": "Source: Choose a Messaging Service\nLearn about the services that Azure provides to help you deliver events or messages throughout your solution:\n\n\n\nArticle\nSummary\n\n\n\n\nCompare messaging services.\nLearn about the three Azure messaging services: Azure Event Grid, Azure Event Hubs, and Azure Service Bus. Choose the best service for your scenario.\n\n\nAsynchronous messaging options\nLearn about asynchronous messaging options in Azure, including the various types of messages and the entities that participate in a messaging infrastructure.\n\n\nChoose a real-time message ingestion technology\nChoose an Azure message ingestion store to support message buffering, scale-out processing, reliable delivery, and queuing semantics."
   },
   {
     "objectID": "SUMMARY.html",
