@@ -6,8 +6,22 @@ css: ../styles.css
 # When to use Azure Batch
 Azure Batch enables large-scale parallel and HPC batch jobs
 
-![Design for Azure Batch Solutions](../images/design-for-azure-batch-solutions){.center .image-large}
+![Design for Azure Batch Solutions](../images/design-for-azure-batch-solutions.png){.center .image-large}
 
 - Compute-intensive tasks anbd dynamically adjust resources for your solution without managing infrastructure.
 - Create and manage jobs in a pool of compute nodes (virtual machines).
 - Azure Batch can also install the application that you want to run, and schedule jobs to run on the compute nodes.
+
+# How Azure Batch works
+
+Think of the diagram in two parts:
+- **Your service** that uses Azure as the platform.
+- **Batch as the compute platform behind your service**. Batch uses Azure Storage to fetch applications or data needed to complete a task.
+
+![How Azure Batch Works](../images/how-azure-batch-works.png){.center .image-large}
+
+Considerations:
+
+- Pools- dynamically allocate jobs, right size the pools.
+- Nodes - use multiple nodes in the pool, right size the machines.
+- Jobs - uniquely name the jobs, monitor and log activity.
