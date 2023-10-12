@@ -5,8 +5,6 @@ css: ../styles.css
 
 Source: [Choose a Mixed Reality Engine](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)
 
-There are many ways to build and deploy cloud-native and containerized applications in Azure. Review these articles to learn more:
-
 |Article|Summary|
 |--|--|
 |[Choose a mixed reality engine.](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/choosing-an-engine?toc=/azure/architecture/toc.json&bc=/azure/architecture/_bread/toc.json)|Learn about the engine choices for mixed reality development for HoloLens and virtual reality.|
