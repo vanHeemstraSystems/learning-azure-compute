@@ -25,4 +25,4 @@ Azure virtual machines scenarios include build new or migrate patterns.
 - Keep the VM up-to-date.
 - Monitor the VM.
 
-![Plan VM Deployment](../images/plan-the-azure-virtual-machine-deployment.png)
+![Plan VM Deployment](../images/plan-the-azure-virtual-machine-deployment.png){.center .image-large}
