@@ -2,90 +2,94 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/about.html</loc>
-    <lastmod>2023-10-12T08:43:23.524Z</lastmod>
+    <lastmod>2023-10-12T13:56:46.971Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics.html</loc>
-    <lastmod>2023-10-12T08:43:22.912Z</lastmod>
+    <lastmod>2023-10-12T13:56:46.155Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/choose-a-data-store.html</loc>
-    <lastmod>2023-10-12T08:43:22.296Z</lastmod>
+    <lastmod>2023-10-12T13:56:45.307Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/choose-a-security-option.html</loc>
-    <lastmod>2023-10-12T08:43:21.524Z</lastmod>
+    <lastmod>2023-10-12T13:56:44.307Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/choose-a-mixed-reality-engine.html</loc>
-    <lastmod>2023-10-12T08:43:20.848Z</lastmod>
+    <lastmod>2023-10-12T13:56:43.447Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/development-tools.html</loc>
-    <lastmod>2023-10-12T08:43:20.180Z</lastmod>
+    <lastmod>2023-10-12T13:56:42.531Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/choose-a-command-line-tool.html</loc>
-    <lastmod>2023-10-12T08:43:19.428Z</lastmod>
+    <lastmod>2023-10-12T13:56:41.511Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/choose-a-hybrid-service.html</loc>
-    <lastmod>2023-10-12T08:43:18.716Z</lastmod>
+    <lastmod>2023-10-12T13:56:40.599Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/choose-a-container-option.html</loc>
-    <lastmod>2023-10-12T08:43:17.992Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/choose-a-mobile-development-framework.html</loc>
-    <lastmod>2023-10-12T08:43:17.300Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/choose-a-compute-service.html</loc>
-    <lastmod>2023-10-12T08:43:16.620Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/privileged-identity-management.html</loc>
-    <lastmod>2023-10-12T08:43:15.912Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/choose-an-iot-option.html</loc>
-    <lastmod>2023-10-12T08:43:16.972Z</lastmod>
+    <lastmod>2023-10-12T13:56:39.567Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/choose-a-storage-service.html</loc>
-    <lastmod>2023-10-12T08:43:17.644Z</lastmod>
+    <lastmod>2023-10-12T13:56:38.675Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/choose-an-iot-option.html</loc>
+    <lastmod>2023-10-12T13:56:37.759Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/privileged-identity-management.html</loc>
+    <lastmod>2023-10-12T13:56:36.195Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/choose-a-compute-service.html</loc>
+    <lastmod>2023-10-12T13:56:37.291Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/choose-a-mobile-development-framework.html</loc>
+    <lastmod>2023-10-12T13:56:38.211Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/choose-a-virtual-machine-service.html</loc>
+    <lastmod>2023-10-12T13:56:39.091Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/choose-an-ai-ml-service.html</loc>
-    <lastmod>2023-10-12T08:43:18.348Z</lastmod>
+    <lastmod>2023-10-12T13:56:40.047Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/choose-an-analytics-solution.html</loc>
-    <lastmod>2023-10-12T08:43:19.092Z</lastmod>
+    <lastmod>2023-10-12T13:56:41.075Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/designing-a-compute-solution.html</loc>
-    <lastmod>2023-10-12T08:43:19.868Z</lastmod>
+    <lastmod>2023-10-12T13:56:42.087Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/choose-a-networking-service.html</loc>
-    <lastmod>2023-10-12T08:43:20.520Z</lastmod>
+    <lastmod>2023-10-12T13:56:43.015Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/choose-an-identity-service.html</loc>
-    <lastmod>2023-10-12T08:43:21.216Z</lastmod>
+    <lastmod>2023-10-12T13:56:43.895Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/topics/choose-a-messaging-service.html</loc>
-    <lastmod>2023-10-12T08:43:21.868Z</lastmod>
+    <lastmod>2023-10-12T13:56:44.755Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/SUMMARY.html</loc>
-    <lastmod>2023-10-12T08:43:22.608Z</lastmod>
+    <lastmod>2023-10-12T13:56:45.747Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-compute/index.html</loc>
-    <lastmod>2023-10-12T08:43:23.216Z</lastmod>
+    <lastmod>2023-10-12T13:56:46.567Z</lastmod>
   </url>
 </urlset>
