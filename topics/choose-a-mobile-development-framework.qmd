@@ -1,1 +1,10 @@
+---
+title: "Choose a Mobile Development Framework"
+css: ../styles.css
+---
 
+Source: [Choose a Mobile Development Framework](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)
+
+|Article|Summary|
+|--|--|
+|[Choose a mobile development framework.](https://learn.microsoft.com/en-us/azure/developer/mobile-apps/choose-mobile-framework?toc=/azure/architecture/toc.json&bc=/azure/architecture/_bread/toc.json)|Learn about the supported native and cross-platform languages for building client applications.|
