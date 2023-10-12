@@ -3,3 +3,11 @@ title: "Designing for Azure Batch Solutions"
 css: ../styles.css
 ---
 
+# When to use Azure Batch
+Azure Batch enables large-scale parallel and HPC batch jobs
+
+![Design for Azure Batch Solutions](../images/design-for-azure-batch-solutions){.center .large}
+
+- Compute-intensive tasks anbd dynamically adjust resources for your solution without managing infrastructure.
+- Create and manage jobs in a pool of compute nodes (virtual machines).
+- Azure Batch can also install the application that you want to run, and schedule jobs to run on the compute nodes.
