@@ -45,6 +45,9 @@ Scale sete are built from virtual machines. With scale sets, the management and 
 # Determine the virtual machine family
 The virtual machine size determines pricing
 
-|General Purpose|Storage Optimized|
-|Compute Optimized|GPU|
-|Memory Optimized|High performance Compute|
+- General Purpose
+- Storage Optimized
+- Compute Optimized
+- GPU
+- Memory Optimized
+- High performance Compute
