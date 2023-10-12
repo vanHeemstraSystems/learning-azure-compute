@@ -21,6 +21,8 @@ website:
         - text: "---"
         - topics/designing-a-compute-solution.qmd
         - text: "---"
+        - topics/choose-a-virtual-machine-service.qmd
+        - text: "---"
         - topics/choose-a-compute-service.qmd
         - text: "---"
         - topics/choose-a-container-option.qmd
