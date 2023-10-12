@@ -56,18 +56,18 @@
     "text": "Source: Choose a Storage Service\nThe Azure Storage platform is the Microsoft cloud storage solution for modern data storage scenarios. Review these articles to determine the best solution for your use case:\n\n\n\nArticle\nSummary\n\n\n\n\nReview your storage option.\nReview the storage options for Azure workloads.\n\n\nAzure managed disk types.\nLearn about the disk types that are available for Azure virtual machines, including Ultra disks, Premium SSDs v2 (preview), Premium SSDs, Standard SSDs, and Standard HDDs.\n\n\nChoose an Azure solution for data transfer.\nChoose an Azure solution for data transfer, based on the amount of data and the available network bandwidth in your environment."
   },
   {
-    "objectID": "topics/choose-a-compute-service.html",
-    "href": "topics/choose-a-compute-service.html",
-    "title": "Choose a Compute Service",
-    "section": "",
-    "text": "Source: Choose a Compute Service\nAzure offers many ways to host your application code. The term compute refers to the hosting model for the computing resources that your application runs on. The following articles can help you choose the right technologies:\n\n\n\nArticle\nSummary\n\n\n\n\nChoose an Azure compute service.\nDecide which compute service best suits your application.\n\n\nHigh availability and disaster recovery scenarios for IaaS apps.\nLearn about high availability (HA) and disaster recovery (DR) options for multitier infrastructure as a service (IaaS) apps in Azure.\n\n\nChoose an Azure compute option for microservices.\nLearn about two compute options for microservices: service orchestrator and serverless architecture.\n\n\nChoose between traditional web apps and SPAs.\nLearn how to choose between traditional web apps and single-page applications (SPAs).\n\n\nChoose an Azure multiparty computing service.\nDecide which multiparty computing services to use for your solution."
-  },
-  {
     "objectID": "topics/choose-an-iot-option.html",
     "href": "topics/choose-an-iot-option.html",
     "title": "Choose an IoT Option",
     "section": "",
     "text": "Source: Choose an Internet-of-Things Option\nIoT solutions use a combination of technologies to connect devices, events, and actions through cloud applications. Review these articles to learn more about the IoT technology choices that Azure provides:\n\n\n\nArticle\nSummary\n\n\n\n\nChoose an IoT solution.\nUse Azure IoT Central or individual Azure platform as a service (PaaS) components to build, deploy, and manage IoT solutions.\n\n\nCompare IoT Hub and Event Hubs.\nReview a comparison between Azure IoT Hub and Event Hubs that highlights functional differences and use cases. The comparison includes supported protocols, device management, monitoring, and file uploads."
+  },
+  {
+    "objectID": "topics/choose-a-compute-service.html",
+    "href": "topics/choose-a-compute-service.html",
+    "title": "Choose a Compute Service",
+    "section": "",
+    "text": "Source: Choose a Compute Service\nAzure offers many ways to host your application code. The term compute refers to the hosting model for the computing resources that your application runs on. The following articles can help you choose the right technologies:\n\n\n\nArticle\nSummary\n\n\n\n\nChoose an Azure compute service.\nDecide which compute service best suits your application.\n\n\nHigh availability and disaster recovery scenarios for IaaS apps.\nLearn about high availability (HA) and disaster recovery (DR) options for multitier infrastructure as a service (IaaS) apps in Azure.\n\n\nChoose an Azure compute option for microservices.\nLearn about two compute options for microservices: service orchestrator and serverless architecture.\n\n\nChoose between traditional web apps and SPAs.\nLearn how to choose between traditional web apps and single-page applications (SPAs).\n\n\nChoose an Azure multiparty computing service.\nDecide which multiparty computing services to use for your solution."
   },
   {
     "objectID": "topics/choose-a-container-option.html",
