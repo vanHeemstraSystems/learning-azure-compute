@@ -4,7 +4,7 @@ css: ../styles.css
 ---
 
 # When to select virtual machines
-Know when to use vrtual machines
+Know when to use vrtual machines.
 
 - Quickly test and troubleshoot different configurations.
 - Use speciality hardware such as high-performance computing.
@@ -13,3 +13,15 @@ Know when to use vrtual machines
 - Access third party software that requires local add-ons or plug-ins.
 - Quickly migrate apps to the cloud.
 - Fully control the computing environment.
+
+# Plan the Azure virtual machine deployment
+Azure virtual machines scenarios include build new or migrate patterns.
+
+- Start with the network.
+- Name the VM.
+- Decide the VM location.
+- Select the VM storage.
+- Select a VM operating system.
+- Keep the VM up-to-date.
+- Monitor the VM.
+
