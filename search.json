@@ -32,7 +32,7 @@
     "href": "topics/designing-for-azure-batch-solutions.html",
     "title": "Designing for Azure Batch Solutions",
     "section": "",
-    "text": "When to use Azure Batch\nAzure Batch enables large-scale parallel and HPC batch jobs\n\n\n\nDesign for Azure Batch Solutions\n\n\n\nCompute-intensive tasks anbd dynamically adjust resources for your solution without managing infrastructure.\nCreate and manage jobs in a pool of compute nodes (virtual machines).\nAzure Batch can also install the application that you want to run, and schedule jobs to run on the compute nodes."
+    "text": "When to use Azure Batch\nAzure Batch enables large-scale parallel and HPC batch jobs\n\n\n\nDesign for Azure Batch Solutions\n\n\n\nCompute-intensive tasks anbd dynamically adjust resources for your solution without managing infrastructure.\nCreate and manage jobs in a pool of compute nodes (virtual machines).\nAzure Batch can also install the application that you want to run, and schedule jobs to run on the compute nodes.\n\n\n\nHow Azure Batch works\nThink of the diagram in two parts: - Your service that uses Azure as the platform. - Batch as the compute platform behind your service. Batch uses Azure Storage to fetch applications or data needed to complete a task.\n\n\n\nHow Azure Batch Works\n\n\nConsiderations:\n\nPools- dynamically allocate jobs, right size the pools.\nNodes - use multiple nodes in the pool, right size the machines.\nJobs - uniquely name the jobs, monitor and log activity."
   },
   {
     "objectID": "topics/designing-a-compute-solution.html",
