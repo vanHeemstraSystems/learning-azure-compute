@@ -109,7 +109,7 @@
     "href": "topics/choose-a-networking-service.html",
     "title": "Choose a Networking Service",
     "section": "",
-    "text": "Source: Choose a Compute Service\nMore …"
+    "text": "Source: Choose a Networking Service\nThese articles can help you explore the networking technologies that are available in Azure:\n\n\n\n\n\n\n\nArticle\nSummary\n\n\n\n\nLoad balancing options.](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/load-balancing-overview)\nLearn about Azure load balancing services and how you can use them to distribute your workloads across multiple computing resources.\n\n\nChoose between virtual network peering and VPN gateways.](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/vnet-peering)\nReview the differences between virtual network peering and VPN gateways, which are two ways to connect virtual networks in Azure."
   },
   {
     "objectID": "topics/choose-an-identity-service.html",
