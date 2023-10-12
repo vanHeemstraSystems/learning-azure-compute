@@ -47,6 +47,8 @@ website:
         - text: "---"
         - topics/choose-a-mobile-development-framework.qmd
         - text: "---"
+        - topics/choose-a-mixed-reality-engine.qmd
+        - text: "---"
         - topics/choose-a-command-line-tool.qmd
         - text: "---"
         - topics/development-tools.qmd        
