@@ -53,7 +53,9 @@ website:
         - text: "---"
         - topics/choose-a-command-line-tool.qmd
         - text: "---"
-        - topics/development-tools.qmd        
+        - topics/development-tools.qmd
+        - text: "---"
+        - topics/designing-for-azure-batch-solutions.qmd
 format:
   html:
     theme: cosmo
