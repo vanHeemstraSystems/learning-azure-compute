@@ -7,3 +7,9 @@ css: ../styles.css
 Know when to use vrtual machines
 
 - Quickly test and troubleshoot different configurations.
+- Use speciality hardware such as high-performance computing.
+- Extend your on-premises datacenter without purchasing additional hardware.
+- Run legacy apps on modern hardware.
+- Access third party software that requires local add-ons or plug-ins.
+- Quickly migrate apps to the cloud.
+- Fully control the computing environment.
