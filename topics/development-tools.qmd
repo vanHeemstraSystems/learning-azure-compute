@@ -3,6 +3,9 @@ title: "Development Tools"
 css: ../styles.css
 ---
 
-Source: [Choose a Compute Service](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)
+Source: [Development Tools](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)
 
-More ...
+|Article|Summary|
+|--|--|
+|[Choose a mobile development framework.](https://learn.microsoft.com/en-us/azure/developer/mobile-apps/choose-mobile-framework?toc=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fazure%2Farchitecture%2Ftoc.json&bc=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fazure%2Farchitecture%2Fbread%2Ftoc.json)|A Mobile Development Framework.|
+|[Choose a mixed reality engine.](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/choosing-an-engine?toc=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fazure%2Farchitecture%2Ftoc.json&bc=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fazure%2Farchitecture%2Fbread%2Ftoc.json)|A Mixed Reality Engine.|
