@@ -70,6 +70,13 @@
     "text": "Source: Choose a Compute Service\nAzure offers many ways to host your application code. The term compute refers to the hosting model for the computing resources that your application runs on. The following articles can help you choose the right technologies:\n\n\n\nArticle\nSummary\n\n\n\n\nChoose an Azure compute service.\nDecide which compute service best suits your application.\n\n\nHigh availability and disaster recovery scenarios for IaaS apps.\nLearn about high availability (HA) and disaster recovery (DR) options for multitier infrastructure as a service (IaaS) apps in Azure.\n\n\nChoose an Azure compute option for microservices.\nLearn about two compute options for microservices: service orchestrator and serverless architecture.\n\n\nChoose between traditional web apps and SPAs.\nLearn how to choose between traditional web apps and single-page applications (SPAs).\n\n\nChoose an Azure multiparty computing service.\nDecide which multiparty computing services to use for your solution."
   },
   {
+    "objectID": "topics/choose-a-mobile-development-framework.html",
+    "href": "topics/choose-a-mobile-development-framework.html",
+    "title": "Choose a Mobile Development Framework",
+    "section": "",
+    "text": "Source: Choose a Mobile Development Framework\n\n\n\nArticle\nSummary\n\n\n\n\nChoose a mobile development framework.\nLearn about the supported native and cross-platform languages for building client applications."
+  },
+  {
     "objectID": "topics/choose-a-container-option.html",
     "href": "topics/choose-a-container-option.html",
     "title": "Choose a Container Option",
