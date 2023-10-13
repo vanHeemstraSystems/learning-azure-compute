@@ -133,6 +133,13 @@
     "text": "Source: Choose a Hybrid Service\nMany organizations need a hybrid approach to analytics, automation, and services because their data is hosted both on-premises and in the cloud. The following articles can help you choose the best technologies for your scenario:\n\n\n\nArticle\nSummary\n\n\n\n\nAzure hybrid options.\nLearn about Azure hybrid solutions, including alternatives to deploy and host hybrid services on-premises, at the edge, in Azure, and in other clouds.\n\n\nCompare Azure Stack Hub to Azure.\nLearn the differences between Azure and Azure Stack Hub.\n\n\nCompare Azure, Azure Stack Hub, and Azure Stack HC.\nLearn the differences between Azure, Azure Stack Hub, and Azure Stack HCI.\n\n\nCompare Azure Stack HCI to Azure Stack Hub.\nDetermine whether Azure Stack HCI or Azure Stack Hub is right for your organization.\n\n\nCompare Azure Stack HCI to Windows Server.\nDetermine whether Azure Stack HCI or Windows Server is right for your organization.\n\n\nChoose drives for Azure Stack HCI and Windows Server cluster.\nLearn how to choose drives for Azure Stack HCI and Windows Server clusters to meet performance and capacity requirements."
   },
   {
+    "objectID": "topics/designing-for-azure-kubernetes-services-solutions.html",
+    "href": "topics/designing-for-azure-kubernetes-services-solutions.html",
+    "title": "Designing for Azure Kubernetes Services Solutions",
+    "section": "",
+    "text": "When to use Azure Kubernetes Services\nAzure Kubernetes Service (AKS) orchestrates your containerized applications.\n\n\n\nDesign for Azure Kubernetes Services Solutions"
+  },
+  {
     "objectID": "topics/choose-a-command-line-tool.html",
     "href": "topics/choose-a-command-line-tool.html",
     "title": "Choose a Command-Line Tool",
