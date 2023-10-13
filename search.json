@@ -116,7 +116,7 @@
     "href": "topics/designing-for-azure-app-service-solutions.html",
     "title": "Designing for Azure App Service Solutions",
     "section": "",
-    "text": "When to use Azure App Services Web Apps\nAzure App Service is an HTTP-based service that lets you build and host apps.\n\nWeb apps, background jobs, mobile backends, and RESTful APIs.\nUse the programming language of your choice.\nAutomatic scaling and high availability.\nApp Service enables automated deployments from GitHub, Azure DevOps, or other source control services."
+    "text": "When to use Azure App Services Web Apps\nAzure App Service is an HTTP-based service that lets you build and host apps.\n\n\n\nDesign for Azure App Service Solutions\n\n\n\nWeb apps, background jobs, mobile backends, and RESTful APIs.\nUse the programming language of your choice.\nAutomatic scaling and high availability.\nApp Service enables automated deployments from GitHub, Azure DevOps, or other source control services."
   },
   {
     "objectID": "topics/development-tools.html",
