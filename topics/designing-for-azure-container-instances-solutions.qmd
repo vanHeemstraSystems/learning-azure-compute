@@ -1,1 +1,9 @@
+---
+title: "Designing for Azure Container Instances Solutions"
+css: ../styles.css
+---
 
+# When to use Azure Container Instances
+...
+
+![Design for Azure Container Instances Solutions](../images/design-for-azure-container-instances-solutions.png){.center .image-large}
