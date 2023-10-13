@@ -4,6 +4,18 @@ css: ../styles.css
 ---
 
 # When to use Azure Container Instances
-...
+Azure Container Instances are a fast and simple way to run a container on Azure.
 
 ![Design for Azure Container Instances Solutions](../images/design-for-azure-container-instances-solutions.png){.center .image-large}
+
+Pros:
+
+- Fast and Easy.
+- Used for testing and development.
+- Used for short-lived processes.
+- Can be used for AKS overflow.
+
+Cons:
+
+- Doesn't scale.
+- Not designed for microservices.
