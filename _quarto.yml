@@ -60,6 +60,8 @@ website:
         - topics/designing-for-azure-app-service-solutions.qmd
         - text: "---"
         - topics/designing-for-azure-functions-solutions.qmd
+        - text: "---"
+        - topics/designing-for-azure-logic-app-solutions.qmd
 format:
   html:
     theme: cosmo
