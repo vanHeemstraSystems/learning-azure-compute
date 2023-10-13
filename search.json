@@ -112,6 +112,13 @@
     "text": "Source: Choose an Analytics Solution\nWith the exponential growth in data, organizations rely on the limitless compute, storage, and analytical power of Azure. Review these articles to learn about the available analytics solutions:\n\n\n\nArticle\nSummary\n\n\n\n\nChoose an analytical data store.\nEvaluate analytical data store options for big data in Azure.\n\n\nChoose a data analytics and reporting technology.\nEvaluate big data analytics technology options for Azure.\n\n\nChoose a batch processing technology.\nCompare technology choices for big data batch processing in Azure.\n\n\nChoose a stream processing technology.\nCompare options for real-time message stream processing in Azure."
   },
   {
+    "objectID": "topics/designing-for-azure-app-service-solutions.html",
+    "href": "topics/designing-for-azure-app-service-solutions.html",
+    "title": "Designing for Azure App Service Solutions",
+    "section": "",
+    "text": "When to use Azure App Services Web Apps\nAzure App Service is an HTTP-based service that lets you build and host apps.\n\nWeb apps, background jobs, mobile backends, and RESTful APIs.\nUse the programming language of your choice.\nAutomatic scaling and high availability.\nApp Service enables automated deployments from GitHub, Azure DevOps, or other source control services."
+  },
+  {
     "objectID": "topics/development-tools.html",
     "href": "topics/development-tools.html",
     "title": "Development Tools",
