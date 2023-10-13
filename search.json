@@ -112,6 +112,13 @@
     "text": "Source: Choose an Artificial Intelligence / Machine Learning Service\nAI is the capability of a computer to imitate intelligent human behavior. Through AI, machines can analyze images, comprehend speech, interact in natural ways, and make predictions based on data. Review these articles to learn about the AI and machine learning technology choices that are available in Azure:\n\n\n\nArticle\nSummary\n\n\n\n\nChoose an Azure Cognitive Services technology.\nLearn about cognitive services that you can use in AI applications and data flows.\n\n\nNatural language processing technology.\nChoose a natural language processing service for sentiment analysis, topic and language detection, key phrase extraction, and document categorization.\n\n\nCompare machine learning products and technologies.\nCompare options for building, deploying, and managing your machine learning models. Decide which products to use for your solution.\n\n\nMLflow and Azure Machine Learning.\nLearn about how Azure Machine Learning uses MLflow to log metrics and artifacts from machine learning models and deploy your machine learning models to an endpoint."
   },
   {
+    "objectID": "topics/designing-for-azure-logic-app-solutions.html",
+    "href": "topics/designing-for-azure-logic-app-solutions.html",
+    "title": "Designing for Azure Logic App Solutions",
+    "section": "",
+    "text": "When to use Azure Logic App (=Workflow)\n…"
+  },
+  {
     "objectID": "topics/choose-a-command-line-tool.html",
     "href": "topics/choose-a-command-line-tool.html",
     "title": "Choose a Command-Line Tool",
