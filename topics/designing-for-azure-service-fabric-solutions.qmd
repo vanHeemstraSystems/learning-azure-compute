@@ -1,0 +1,9 @@
+---
+title: "Designing for Azure Service Fabric Solutions"
+css: ../styles.css
+---
+
+# When to use Azure Service Fabric
+Azure Service Fabric is Azure's implementation of Kubernetes using Windows rather than Linux..
+
+![Design for Azure Service Fabric Solutions](../images/design-for-azure-service-fabric-solutions.png){.center .image-large}
