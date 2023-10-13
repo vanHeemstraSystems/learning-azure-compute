@@ -67,7 +67,7 @@
     "href": "topics/designing-for-azure-container-instances-solutions.html",
     "title": "Designing for Azure Container Instances Solutions",
     "section": "",
-    "text": "When to use Azure Container Instances\n…\n\n\n\nDesign for Azure Container Instances Solutions"
+    "text": "When to use Azure Container Instances\nAzure Container Instances are a fast and simple way to run a container on Azure.\n\n\n\nDesign for Azure Container Instances Solutions\n\n\nPros:\n\nFast and Easy.\nUsed for testing and development.\nUsed for short-lived processes.\nCan be used for AKS overflow.\n\nCons:\n\nDoesn’t scale.\nNot designed for microservices."
   },
   {
     "objectID": "topics/choose-a-virtual-machine-service.html",
