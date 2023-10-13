@@ -1,1 +1,9 @@
+---
+title: "Designing for Azure Functions Solutions"
+css: ../styles.css
+---
 
+# When to use Azure Functions
+Event-driven workload with short-lived processes.
+
+![Design for Azure Functions Solutions](../images/design-for-azure-functions-solutions.png){.center .image-large}
