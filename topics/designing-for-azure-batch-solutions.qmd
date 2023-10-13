@@ -15,6 +15,7 @@ Azure Batch enables large-scale parallel and HPC batch jobs
 # How Azure Batch works
 
 Think of the diagram in two parts:
+
 - **Your service** that uses Azure as the platform.
 - **Batch as the compute platform behind your service**. Batch uses Azure Storage to fetch applications or data needed to complete a task.
 
