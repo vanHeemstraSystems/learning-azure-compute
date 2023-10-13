@@ -35,6 +35,13 @@
     "text": "When to use Azure Batch\nAzure Batch enables large-scale parallel and HPC batch jobs\n\n\n\nDesign for Azure Batch Solutions\n\n\n\nCompute-intensive tasks anbd dynamically adjust resources for your solution without managing infrastructure.\nCreate and manage jobs in a pool of compute nodes (virtual machines).\nAzure Batch can also install the application that you want to run, and schedule jobs to run on the compute nodes.\n\n\n\nHow Azure Batch works\nThink of the diagram in two parts:\n\nYour service that uses Azure as the platform.\nBatch as the compute platform behind your service. Batch uses Azure Storage to fetch applications or data needed to complete a task.\n\n\n\n\nHow Azure Batch Works\n\n\nConsiderations:\n\nPools- dynamically allocate jobs, right size the pools.\nNodes - use multiple nodes in the pool, right size the machines.\nJobs - uniquely name the jobs, monitor and log activity."
   },
   {
+    "objectID": "topics/designing-for-azure-functions-solutions.html",
+    "href": "topics/designing-for-azure-functions-solutions.html",
+    "title": "Designing for Azure Functions Solutions",
+    "section": "",
+    "text": "When to use Azure Functions\nEvent-driven workload with short-lived processes.\n\n\n\nDesign for Azure Functions Solutions"
+  },
+  {
     "objectID": "topics/designing-for-azure-app-service-solutions.html",
     "href": "topics/designing-for-azure-app-service-solutions.html",
     "title": "Designing for Azure App Service Solutions",
