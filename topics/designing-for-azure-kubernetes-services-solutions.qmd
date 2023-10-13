@@ -1,1 +1,10 @@
+---
+title: "Designing for Azure Kubernetes Services Solutions"
+css: ../styles.css
+---
+
+# When to use Azure Kubernetes Services
+Azure Kubernetes Service (AKS) orchestrates your containerized applications.
+
+![Design for Azure Kubernetes Services Solutions](../images/design-for-azure-kubernetes-services-solutions.png){.center .image-large}
 
