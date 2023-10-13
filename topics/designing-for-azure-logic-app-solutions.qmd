@@ -3,5 +3,5 @@ title: "Designing for Azure Logic App Solutions"
 css: ../styles.css
 ---
 
-# When to use Azure Logic App (=Workflow)
+# When to use Azure Logic App (= Workflow)
 ...
