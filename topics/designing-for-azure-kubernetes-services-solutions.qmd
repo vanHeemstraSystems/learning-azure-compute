@@ -8,3 +8,10 @@ Azure Kubernetes Service (AKS) orchestrates your containerized applications.
 
 ![Design for Azure Kubernetes Services Solutions](../images/design-for-azure-kubernetes-services-solutions.png){.center .image-large}
 
+- Enterprise scalability.
+- Automatic cluster node and pod scaling.
+- Granular network control.
+- Cluster node upgrades.
+- Storage volume support.
+- Ingress with HTTP application routing support.
+- Private container registry support.
