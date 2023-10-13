@@ -66,6 +66,8 @@ website:
         - topics/designing-for-azure-container-instances-solutions.qmd
         - text: "---"
         - topics/designing-for-azure-service-fabric-solutions.qmd
+        - text: "---" 
+        - topics/designing-for-azure-kubernetes-services-solutions.qmd
 format:
   html:
     theme: cosmo
