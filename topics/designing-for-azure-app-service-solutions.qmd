@@ -1,1 +1,14 @@
+---
+title: "Designing for Azure App Service Solutions"
+css: ../styles.css
+---
 
+# When to use Azure App Services Web Apps
+Azure App Service is an HTTP-based service that lets you build and host apps.
+
+
+
+- Web apps, background jobs, mobile backends, and RESTful APIs.
+- Use the programming language of your choice.
+- Automatic scaling and high availability.
+- App Service enables automated deployments from GitHub, Azure DevOps, or other source control services.
