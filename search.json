@@ -137,7 +137,7 @@
     "href": "topics/designing-for-azure-kubernetes-services-solutions.html",
     "title": "Designing for Azure Kubernetes Services Solutions",
     "section": "",
-    "text": "When to use Azure Kubernetes Services\nAzure Kubernetes Service (AKS) orchestrates your containerized applications.\n\n\n\nDesign for Azure Kubernetes Services Solutions"
+    "text": "When to use Azure Kubernetes Services\nAzure Kubernetes Service (AKS) orchestrates your containerized applications.\n\n\n\nDesign for Azure Kubernetes Services Solutions\n\n\n\nEnterprise scalability.\nAutomatic cluster node and pod scaling.\nGranular network control.\nCluster node upgrades.\nStorage volume support.\nIngress with HTTP application routing support.\nPrivate container registry support."
   },
   {
     "objectID": "topics/choose-a-command-line-tool.html",
