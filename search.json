@@ -137,7 +137,7 @@
     "href": "topics/designing-for-azure-kubernetes-services-solutions.html",
     "title": "Designing for Azure Kubernetes Services Solutions",
     "section": "",
-    "text": "When to use Azure Kubernetes Services\nAzure Kubernetes Service (AKS) orchestrates your containerized applications.\n\n\n\nDesign for Azure Kubernetes Services Solutions\n\n\n\nEnterprise scalability.\nAutomatic cluster node and pod scaling.\nGranular network control.\nCluster node upgrades.\nStorage volume support.\nIngress with HTTP application routing support.\nPrivate container registry support."
+    "text": "When to use Azure Kubernetes Services\nAzure Kubernetes Service (AKS) orchestrates your containerized applications.\n\n\n\nDesign for Azure Kubernetes Services Solutions\n\n\n\nEnterprise scalability.\nAutomatic cluster node and pod scaling.\nGranular network control.\nCluster node upgrades.\nStorage volume support.\nIngress with HTTP application routing support.\nPrivate container registry support.\n\n\n\nDesign a highly available container solution\nAzure Kubernetes Service (AKS) provides high availability using multiple nodes in a virtual machine scale set.\n\n\n\nDesign for Azure Highly Available Container Solutions\n\n\nWhen planning to implement AKS clusters across multiple region deployments, consider the following:\n\nAKS region availability.\nAzure paired regions.\nService availability.\n\nTwo ways to synchronize storage:\n\nInfrastructure-based asynchronous replication.\nApplication-based asynchronous replication."
   },
   {
     "objectID": "topics/choose-a-command-line-tool.html",

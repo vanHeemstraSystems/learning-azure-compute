@@ -309,6 +309,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#when-to-use-azure-kubernetes-services" id="toc-when-to-use-azure-kubernetes-services" class="nav-link active" data-scroll-target="#when-to-use-azure-kubernetes-services">When to use Azure Kubernetes Services</a></li>
+  <li><a href="#design-a-highly-available-container-solution" id="toc-design-a-highly-available-container-solution" class="nav-link" data-scroll-target="#design-a-highly-available-container-solution">Design a highly available container solution</a></li>
   </ul>
 </nav>
     </div>
@@ -349,6 +350,27 @@ ul.task-list li input[type="checkbox"] {
 <li>Storage volume support.</li>
 <li>Ingress with HTTP application routing support.</li>
 <li>Private container registry support.</li>
+</ul>
+</section>
+<section id="design-a-highly-available-container-solution" class="level1">
+<h1>Design a highly available container solution</h1>
+<p>Azure Kubernetes Service (AKS) provides high availability using multiple nodes in a virtual machine scale set.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../images/design-for-azure-highly-available-container-solutions.png" class="center image-large img-fluid figure-img"></p>
+<figcaption class="figure-caption">Design for Azure Highly Available Container Solutions</figcaption>
+</figure>
+</div>
+<p>When planning to implement AKS clusters across multiple region deployments, consider the following:</p>
+<ul>
+<li>AKS region availability.</li>
+<li>Azure paired regions.</li>
+<li>Service availability.</li>
+</ul>
+<p>Two ways to synchronize storage:</p>
+<ul>
+<li>Infrastructure-based asynchronous replication.</li>
+<li>Application-based asynchronous replication.</li>
 </ul>
 
 
